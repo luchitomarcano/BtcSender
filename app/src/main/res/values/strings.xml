@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BtcSender</string>
+    <string name="waiting_for_fee">Calculando…</string>
+    <string name="fee_title">Comisión de la red</string>
+    <string name="address_title">Dirección a enviar</string>
+    <string name="btc_title">Cantidad a enviar</string>
+    <string name="address_hint">-</string>
+    <string name="btc_hint">0</string>
+    <string name="placeholder_id">Transaction ID</string>
+    <string name="placeholder_date">Transaction date</string>
+    <string name="placeholder_address">Transaction address</string>
+    <string name="placeholder_btc_transferred">BTC transferred</string>
+    <string name="placeholder_btc">BTC</string>
+    <string name="placeholder_ars">~ calculando…</string>
+</resources>
